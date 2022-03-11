@@ -1,0 +1,8 @@
+*.php
+*.json
+
+gulpfile.js
+
+PHPMailer/
+node_modules/
+css/scss/
